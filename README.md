@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Gabriel and i'm a Web and Mobile Developer, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is João Gabriel and i'm a Web and Mobile Developer, from Barueri, SP - Brazil</h2>
 
 ###
 
