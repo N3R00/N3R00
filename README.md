@@ -52,4 +52,3 @@
 <img href="https://raw.githubusercontent.com/N3R00/N3R00/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
