@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/N3R00/N3R00/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
